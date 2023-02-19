@@ -1,6 +1,6 @@
 /* site responsive styles */
 /* query sm (576) styles */
-@media (min-width: 576px) {
+@media (min-width: 768px) {
 	.clientQuote q {
 		position: static;
 	}
