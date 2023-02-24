@@ -1919,10 +1919,11 @@ Page Main Footer Logo / .ftLogo
 
 .ftLogo {
 	max-width: 134px;
-	position: absolute;
-	top: 30px;
+	/* position: absolute;
+	top: 0px;
 	left: 0;
-	right: 0;
+	right: 0; */
+	margin-top: 8px;
 }
 
 /*------------------------------------------------------------------
